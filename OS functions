@@ -3,3 +3,5 @@ OS functions:
 They create a UI or User Interface. This lets anyone use the OS to access applications and web browsers while keeping a nice look
 
 OS also control system performence. They make sure your computer is running well and healthy.
+
+OS also manage memory. It addresses what memory is being used and all the memory that was allocated and what remains unused.
